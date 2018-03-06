@@ -41,11 +41,11 @@ p{
 }
 /*css2*/
 .left-column {
-  color: yellow;
+  color: hotpink;
 }
 /*css3,4,5,6*/
 h1 {
-  border-style: double; border-color: yellow; border-top: 5px; border-bottom: 5px
+  border-style: double; border-color: red; border-top: 5px; border-bottom: 5px
 }
 /*css7,8,9,10*/
 h1{
@@ -63,7 +63,22 @@ text-shadow: black;
 .publish-time {
   text-decoration: overline; =text-decoration: underline; text-shadow: 2px;
 }
-/*css 17,18,19,*/
+/*css 17,18,19,20*/
 body{
    border-style: dashed; border-color: black; border-top: 10px; border-width: thick;
+}
+/*css 21, 22,23,24,25,26*/
+img {
+  border-style: double; color: hotpink; border-top: 15px; border-bottom: 5px; border-radius: 15px; border-width: thick;
+}
+/*css 27,28,29*/
+.publishtime {
+  font-size: 22px; font-style: oblique; font-weight: lighter;
+}
+/*css 30,31,32,33,34*/
+.wiki-link {
+  font-size: 10px; font-family: fantasy; font-style: italic; font-weight: bolder; color: green;
+}
+h4 {
+  font-size: 30px; color: black;
 }
