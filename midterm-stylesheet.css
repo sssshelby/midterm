@@ -1,3 +1,10 @@
 .container {
-  max-width: 600px
+  max-width: 600px }
+.container { margin: 0 auto;
+}
+.container {
+  background: blue;
+}
+body{
+  color: red;
 }
