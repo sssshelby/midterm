@@ -3,7 +3,7 @@
 .container { margin: 0 auto;
 }
 .container {
-  background: blue; padding:30px 30px 30px 30px;
+  background: yellow; padding:30px 30px 30px 30px;
 }
 body{
   color: red;
