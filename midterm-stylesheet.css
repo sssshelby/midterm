@@ -11,6 +11,9 @@ body{
 .left-column {
   width: 50%; float: left;
 }
+.left-column{
+  padding-right: 20px;
+}
 .right-column {
   width: 50%; float: right;
 }
