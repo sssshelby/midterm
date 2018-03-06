@@ -17,3 +17,5 @@ body{
 .right-column {
   width: 50%; float: right;
 }
+{
+@media(min-width: 600px) }
