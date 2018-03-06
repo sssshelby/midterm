@@ -19,3 +19,51 @@ body{
 }
 {
 @media(min-width: 600px) }
+.byline{
+  margin: 2;
+  padding: 3;
+}
+.publish-time {
+  margin: 1;
+  padding: 0;
+}
+p{
+  margin-left: 20;
+}
+.clearfix::after {
+    content:inherit;
+    clear: both;
+    display: table;
+}
+/*css1*/
+.right-column {
+  color: blue;
+}
+/*css2*/
+.left-column {
+  color: yellow;
+}
+/*css3,4,5,6*/
+h1 {
+  border-style: double; border-color: yellow; border-top: 5px; border-bottom: 5px
+}
+/*css7,8,9,10*/
+h1{
+  font-weight: bold; color: pink; font-style: italic; font-family:fantasy;
+}
+/*css11*/
+.container {
+text-shadow: black;
+}
+/*css12,13*/
+.byline{
+  text-decoration: underline; text-shadow: 2px;
+}
+/*css 14,15,16*/
+.publish-time {
+  text-decoration: overline; =text-decoration: underline; text-shadow: 2px;
+}
+/*css 17,18,19,*/
+body{
+   border-style: dashed; border-color: black; border-top: 10px; border-width: thick;
+}
