@@ -3,13 +3,13 @@
 .container { margin: 0 auto;
 }
 .container {
-  background: yellow; padding:30px 30px 30px 30px;
+  background: yellow; padding:50px 50px 50px 50px;
 }
 body{
   color: red;
 }
 .left-column {
-  width: 50%; float: left;
+  width: 50%; float: left; padding-top: 0;
 }
 .left-column{
   padding-right: 20px;
@@ -79,6 +79,11 @@ img {
 .wiki-link {
   font-size: 10px; font-family: fantasy; font-style: italic; font-weight: bolder; color: green;
 }
+/* css 35*/
 h4 {
   font-size: 30px; color: black;
+}
+/*css 36*/
+ol{
+  font-size: 10;
 }
